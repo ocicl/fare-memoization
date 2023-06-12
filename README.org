@@ -1,0 +1,10 @@
+* fare-memoization
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/frideau/fare-memoization.git   |
+| commit  |   |
+| systems | fare-memoization |
+|---------+-------------------------------------------|
+
