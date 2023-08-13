@@ -2,8 +2,9 @@
 
 Dynamically memoizing Lisp functions.
 
+
 |---------+-----------------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/frideau/fare-memoization.git |
-| commit  | 8b43ac                                                          |
+| commit  | 8b43ac6                                                         |
 | systems | fare-memoization                                                |
 |---------+-----------------------------------------------------------------|
